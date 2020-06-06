@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_left">16dp</dimen>
+    <dimen name="ss">40dp</dimen>
+    <dimen name="hi">30dp</dimen>
+</resources>
